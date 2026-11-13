@@ -1,7 +1,8 @@
 # Era 01: Verde Lima
 
 - **Status:** ativa (3 de 9 posts publicados)
-- **Formato da grade:** 3x3 (9 posts), a confirmar com o dono
+- **Formato da grade:** 3x3 (9 posts), confirmado
+- **Plano dos posts 4–9:** `posts/era-01-plano.md` (foco: mostrar trabalho)
 - **Referência:** `inspiracoes/estetica-atual/perfil-2026-11-13.png`
 
 ## Paleta
@@ -59,9 +60,9 @@ A assinatura da era é o choque entre condensada pesada e script fina.
 
 | # | Post | Status |
 |---|---|---|
-| 1 | Menos promessa. Mais valor. | publicado |
+| 1 | Selecionado. Testado. Aprovado. | publicado |
 | 2 | Não é só uma loja | publicado |
-| 3 | Selecionado. Testado. Aprovado. | publicado |
-| 4–9 | — | a criar |
+| 3 | Menos promessa. Mais valor. | publicado |
+| 4–9 | Vitrine de serviços + processo + chamada | planejado |
 
 Quando a grade fechar, criar `era-02.md` com a nova paleta.

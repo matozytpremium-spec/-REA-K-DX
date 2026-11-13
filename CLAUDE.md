@@ -47,7 +47,7 @@ Papel: estúdio criativo da AREA KØDX.
 ## Estado atual
 
 - Era atual: **Era 01 · Verde Lima** — verde `#235641`, lima `#D9F765`,
-  off-white `#EDF0EF`. 3 posts publicados, faltam 6 para fechar o 3x3.
+  off-white `#EDF0EF`. 3 posts publicados, faltam 6 para fechar o 3x3 (confirmado). Foco dos próximos: mostrar trabalho. Plano em `posts/era-01-plano.md`, bio em `brand/bio.md`.
   Detalhes em `brand/eras/era-01.md`.
 - Mascote da marca: figura orgânica lima com mãos em seta (também no logo).
 - Instagram: perfil **KØDX**, categoria Digital creator.
