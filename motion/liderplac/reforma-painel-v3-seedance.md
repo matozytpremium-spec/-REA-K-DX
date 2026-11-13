@@ -109,3 +109,17 @@ the bottom third for the call to action.
 - [ ] Sem flicker entre quadros nem troca de formato dos furos
 - [ ] Legendas e logo Liderplac recolocados na edição, ortografia conferida
 - [ ] 1080x1920, terço inferior livre para o CTA
+
+## Cortes enviados ao Drive (pasta "Liderplac · Reforma painel v3")
+
+| Arquivo | Trecho | Bloco de prompt |
+|---|---|---|
+| cena1-macro-oleo.mp4 | 0–3,3 s | Cena 1 |
+| cena2-painel-entra.mp4 | 3,3–9 s | Cena 2 |
+| cena3-desgaste.mp4 | 9–14 s | Cena 3 |
+| cena4-camada-por-camada.mp4 | 14–20 s | Cena 4 |
+| cena5-novo-de-novo.mp4 | 20–25 s | Cena 5 + Cena 6 (vira para o fundo escuro no meio) |
+| cena6-final-cta.mp4 | 25–30 s | Cena 6 |
+
+MP4 H.264, 1080x1920, ~2,6 MB cada (limite do envio ao Drive por aqui é ~3 MB).
+Na montagem final, juntar na ordem e recolocar legendas e logo.
