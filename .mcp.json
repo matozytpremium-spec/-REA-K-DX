@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "shadcn": {
+      "type": "stdio",
+      "command": "bunx",
+      "args": [
+        "-y",
+        "@jpisnice/shadcn-ui-mcp-server",
+        "--github-api-key",
+        "${GITHUB_PERSONAL_ACCESS_TOKEN:-}"
+      ]
+    }
+  }
+}
