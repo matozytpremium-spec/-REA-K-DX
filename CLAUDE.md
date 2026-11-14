@@ -52,8 +52,9 @@ Papel: estúdio criativo da AREA KØDX.
 - Mascote da marca: figura orgânica lima com mãos em seta (também no logo).
 - Instagram: perfil **KØDX**, categoria Digital creator.
 - Inspirações: chegam ao longo do trabalho e vão para `inspiracoes/`.
-- Ferramentas e skills: o dono vai subir no GitHub; documentar em
-  `ferramentas/`.
+- Ferramentas e skills: documentadas em `ferramentas/`. Vídeo: FFmpeg
+  (`ffmpeg-llm`) pronto para uso; HyperFrames conectado só para consulta nas
+  sessões do Claude Code. Detalhes em `ferramentas/video.md`.
 
 ## Organização do repositório
 
